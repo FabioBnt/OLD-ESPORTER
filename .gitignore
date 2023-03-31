@@ -1,0 +1,6 @@
+composer.phar
+/vendor
+.idea
+.vscode
+.phpunit.result.cache
+.VSCodeCounter
